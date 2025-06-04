@@ -1,0 +1,38 @@
+2025-06-03 03:26:14,309 - FeatureAnalyzer - INFO - ✅ 特征重要性看板已保存: results/feature_importance_report.html
+2025-06-03 03:26:14,368 - FeatureAnalyzer - INFO - 📊 开始创建特征分析报告...
+2025-06-03 03:26:14,385 - FeatureAnalyzer - ERROR - ❌ 创建特征分析报告失败: Unsupported subplot type: 'line'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\量化交易系统\PO3 approach\data\feature_analyzer.py", line 56, in create_comprehensive_feature_report
+    fig = make_subplots(
+          ^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\subplots.py", line 305, in make_subplots
+    return _sub.make_subplots(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\_subplots.py", line 752, in make_subplots
+    subplot_refs = _init_subplot(
+                   ^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\_subplots.py", line 1112, in _init_subplot
+    subplot_type = _validate_coerce_subplot_type(subplot_type)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\_subplots.py", line 1103, in _validate_coerce_subplot_type
+    raise ValueError("Unsupported subplot type: {}".format(repr(orig_subplot_type)))
+ValueError: Unsupported subplot type: 'line'
+2025-06-03 03:28:03,866 - FeatureAnalyzer - INFO - ✅ 特征重要性看板已保存: results/feature_importance_report.html
+2025-06-03 03:28:03,927 - FeatureAnalyzer - INFO - 📊 开始创建特征分析报告...
+2025-06-03 03:28:03,932 - FeatureAnalyzer - ERROR - ❌ 创建特征分析报告失败: Unsupported subplot type: 'line'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\量化交易系统\PO3 approach\data\feature_analyzer.py", line 56, in create_comprehensive_feature_report
+    fig = make_subplots(
+          ^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\subplots.py", line 305, in make_subplots
+    return _sub.make_subplots(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\_subplots.py", line 752, in make_subplots
+    subplot_refs = _init_subplot(
+                   ^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\_subplots.py", line 1112, in _init_subplot
+    subplot_type = _validate_coerce_subplot_type(subplot_type)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\plotly\_subplots.py", line 1103, in _validate_coerce_subplot_type
+    raise ValueError("Unsupported subplot type: {}".format(repr(orig_subplot_type)))
+ValueError: Unsupported subplot type: 'line'

@@ -1,0 +1,64 @@
+2025-06-03 03:26:04,310 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:26:04,387 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:26:05,736 - FeatureEngineer - INFO - ✅ 特征重要性分析完成，分析了74个特征
+2025-06-03 03:26:05,788 - FeatureEngineer - INFO - ✅ 相关性分析完成，发现126对高相关特征
+2025-06-03 03:26:05,901 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:26:05,960 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:26:05,976 - FeatureEngineer - INFO - ✅ 移除了15个高相关特征
+2025-06-03 03:26:05,981 - FeatureEngineer - INFO - ✅ 特征选择完成，从64个特征中选择了22个
+2025-06-03 03:26:06,015 - FeatureEngineer - ERROR - ❌ 降维处理失败: n_components=20 must be between 0 and min(n_samples, n_features)=17 with svd_solver='covariance_eigh'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\量化交易系统\PO3 approach\data\feature_engineering.py", line 687, in apply_dimensionality_reduction
+    X_reduced = reducer.fit_transform(X)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\decomposition\_pca.py", line 468, in fit_transform
+    U, S, _, X, x_is_centered, xp = self._fit(X)
+                                    ^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\decomposition\_pca.py", line 542, in _fit
+    return self._fit_full(X, n_components, xp, is_array_api_compliant)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\decomposition\_pca.py", line 556, in _fit_full
+    raise ValueError(
+ValueError: n_components=20 must be between 0 and min(n_samples, n_features)=17 with svd_solver='covariance_eigh'
+2025-06-03 03:26:06,015 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:26:06,078 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:26:14,309 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:26:14,355 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:27:54,089 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:27:54,147 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:27:55,518 - FeatureEngineer - INFO - ✅ 特征重要性分析完成，分析了74个特征
+2025-06-03 03:27:55,572 - FeatureEngineer - INFO - ✅ 相关性分析完成，发现126对高相关特征
+2025-06-03 03:27:55,692 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:27:55,752 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:27:55,756 - FeatureEngineer - INFO - ✅ 移除了15个高相关特征
+2025-06-03 03:27:55,756 - FeatureEngineer - INFO - ✅ 特征选择完成，从64个特征中选择了22个
+2025-06-03 03:27:55,804 - FeatureEngineer - ERROR - ❌ 降维处理失败: n_components=20 must be between 0 and min(n_samples, n_features)=17 with svd_solver='covariance_eigh'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\量化交易系统\PO3 approach\data\feature_engineering.py", line 687, in apply_dimensionality_reduction
+    X_reduced = reducer.fit_transform(X)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\decomposition\_pca.py", line 468, in fit_transform
+    U, S, _, X, x_is_centered, xp = self._fit(X)
+                                    ^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\decomposition\_pca.py", line 542, in _fit
+    return self._fit_full(X, n_components, xp, is_array_api_compliant)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\decomposition\_pca.py", line 556, in _fit_full
+    raise ValueError(
+ValueError: n_components=20 must be between 0 and min(n_samples, n_features)=17 with svd_solver='covariance_eigh'
+2025-06-03 03:27:55,807 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:27:55,873 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79
+2025-06-03 03:28:03,866 - FeatureEngineer - INFO - 🔧 开始全面特征工程...
+2025-06-03 03:28:03,927 - FeatureEngineer - INFO - ✅ 特征工程完成，总特征数: 79

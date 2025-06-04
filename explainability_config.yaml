@@ -1,0 +1,261 @@
+# 强化学习交易系统可解释性配置文件
+# ============================================
+
+# 系统基础配置
+system:
+  name: "可解释强化学习交易系统"
+  version: "1.0.0"
+  author: "AI Assistant"
+  log_level: "INFO"
+  timezone: "Asia/Shanghai"
+
+# 数据配置
+data:
+  # 特征名称定义
+  feature_names:
+    - "price"                # 价格
+    - "volume"              # 成交量
+    - "rsi"                 # 相对强弱指数
+    - "macd"                # MACD指标
+    - "bollinger_upper"     # 布林带上轨
+    - "bollinger_lower"     # 布林带下轨
+    - "ma_5"                # 5日移动平均
+    - "ma_20"               # 20日移动平均
+    - "volatility"          # 波动率
+    - "returns"             # 收益率
+    - "atr"                 # 平均真实范围
+    - "obv"                 # 成交量平衡指标
+    - "cci"                 # 商品通道指数
+    - "williams_r"          # 威廉指标
+    - "momentum"            # 动量指标
+  
+  # 数据预处理
+  preprocessing:
+    normalize: true
+    scaling_method: "standard"  # standard, minmax, robust
+    handle_missing: "forward_fill"
+    outlier_threshold: 3.0
+
+# SHAP分析配置
+shap:
+  # 解释器类型
+  explainer_type: "permutation"  # permutation, kernel, deep, linear
+  
+  # 采样参数
+  n_samples: 100
+  max_evals: 1000
+  
+  # 分析参数
+  top_k_features: 10
+  create_plots: true
+  save_plots: true
+  plot_format: "png"  # png, pdf, svg
+  
+  # 批量分析
+  batch_size: 32
+  enable_parallel: true
+  n_jobs: 4
+
+# 注意力机制配置
+attention:
+  # 网络结构参数
+  embed_dim: 64
+  num_heads: 8
+  dropout: 0.1
+  
+  # 序列参数
+  sequence_length: 20
+  use_positional_encoding: true
+  
+  # 分析参数
+  attention_threshold: 0.1
+  visualize_attention: true
+  save_attention_maps: true
+
+# 规则提取配置
+rule_extraction:
+  # 决策树参数
+  decision_tree:
+    max_depth: 6
+    min_samples_split: 10
+    min_samples_leaf: 5
+    criterion: "gini"  # gini, entropy
+    random_state: 42
+  
+  # 随机森林参数
+  random_forest:
+    n_estimators: 100
+    max_depth: 6
+    min_samples_split: 10
+    min_samples_leaf: 5
+    max_features: "sqrt"  # sqrt, log2, None
+    random_state: 42
+  
+  # 逻辑回归参数
+  logistic_regression:
+    C: 1.0
+    penalty: "l2"  # l1, l2, elasticnet
+    solver: "liblinear"  # liblinear, lbfgs, newton-cg
+    max_iter: 1000
+  
+  # 规则过滤
+  min_rule_support: 0.05
+  max_rule_complexity: 5
+  rule_confidence_threshold: 0.7
+
+# 决策日志配置
+decision_logging:
+  # 存储配置
+  storage_type: "file"  # file, database, memory
+  log_dir: "logs/decisions"
+  max_log_size: "100MB"
+  backup_count: 5
+  
+  # 记录内容
+  log_market_state: true
+  log_model_outputs: true
+  log_attention_weights: true
+  log_shap_values: true
+  log_execution_time: true
+  
+  # 实时分析
+  enable_real_time_analysis: true
+  analysis_window: 100
+  alert_threshold: 0.8
+
+# 可视化配置
+visualization:
+  # 图表设置
+  figure_size: [12, 8]
+  dpi: 300
+  color_scheme: "professional"  # professional, dark, colorful
+  
+  # 交互式图表
+  enable_interactive: true
+  plotly_theme: "plotly"  # plotly, plotly_white, plotly_dark
+  
+  # 看板设置
+  dashboard:
+    auto_refresh: true
+    refresh_interval: 30  # 秒
+    max_data_points: 1000
+    enable_filters: true
+
+# 性能配置
+performance:
+  # 计算资源
+  use_gpu: false
+  gpu_memory_limit: "2GB"
+  max_workers: 4
+  
+  # 缓存设置
+  enable_cache: true
+  cache_size: "1GB"
+  cache_ttl: 3600  # 秒
+  
+  # 批处理
+  batch_processing: true
+  batch_size: 64
+  processing_timeout: 300  # 秒
+
+# 交易相关配置
+trading:
+  # 动作定义
+  actions:
+    0: "hold"    # 持有
+    1: "buy"     # 买入
+    2: "sell"    # 卖出
+  
+  # 风险管理
+  max_position: 1.0
+  transaction_cost: 0.001
+  slippage: 0.0005
+  risk_threshold: 0.05
+  
+  # 决策阈值
+  confidence_threshold: 0.6
+  uncertainty_penalty: 0.1
+
+# 模型配置
+model:
+  # 网络结构
+  policy_network:
+    hidden_layers: [128, 64, 32]
+    activation: "relu"  # relu, tanh, sigmoid
+    dropout: 0.2
+    batch_norm: true
+  
+  # 训练参数
+  training:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 100
+    early_stopping: true
+    patience: 10
+    validation_split: 0.2
+  
+  # 优化器
+  optimizer:
+    type: "adam"  # adam, sgd, rmsprop
+    weight_decay: 0.0001
+    amsgrad: false
+
+# 实验配置
+experiment:
+  # 实验跟踪
+  enable_mlflow: true
+  experiment_name: "explainable_trading"
+  run_name: null  # 自动生成
+  
+  # 模型保存
+  save_model: true
+  save_interval: 100
+  model_dir: "models/checkpoints"
+  
+  # 结果保存
+  save_results: true
+  results_dir: "results"
+  
+  # A/B测试
+  enable_ab_testing: false
+  test_ratio: 0.3
+
+# 告警配置
+alerting:
+  # 启用告警
+  enable_alerts: true
+  
+  # 告警条件
+  conditions:
+    low_confidence: 0.3
+    high_loss: 0.1
+    unusual_attention: 0.9
+    rule_mismatch: 0.5
+  
+  # 通知方式
+  notification:
+    email: false
+    webhook: false
+    log_file: true
+
+# 报告配置
+reporting:
+  # 自动报告
+  auto_generate: true
+  schedule: "daily"  # hourly, daily, weekly
+  
+  # 报告内容
+  include_sections:
+    - "performance_summary"
+    - "decision_analysis"
+    - "rule_extraction"
+    - "attention_analysis"
+    - "risk_metrics"
+  
+  # 输出格式
+  output_formats: ["html", "pdf"]
+  template: "professional"
+  
+  # 分发
+  auto_send: false
+  recipients: [] 

@@ -1,0 +1,713 @@
+2025-06-02 23:35:24,058 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:35:24,060 - SMCSignals - INFO - 📊 增强信号数量: 2892, 平均质量: 0.060, 平均汇聚度: 0.820
+2025-06-02 23:35:24,060 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:36:01,253 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:36:01,253 - SMCSignals - INFO - 📊 增强信号数量: 2892, 平均质量: 0.060, 平均汇聚度: 0.820
+2025-06-02 23:36:01,253 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:36:01,253 - SMCSignals - INFO - 成功计算所有SMC信号，新增 37 个特征
+2025-06-02 23:38:13,540 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:38:13,540 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:38:13,540 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:38:42,798 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:38:42,798 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:38:42,798 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:38:42,798 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-02 23:40:54,777 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:40:54,777 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:40:54,777 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:41:24,849 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:41:24,849 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:41:24,849 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:41:24,849 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-02 23:43:36,603 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:43:36,603 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:43:36,603 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:44:06,383 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:44:06,383 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:44:06,383 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:44:06,383 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-02 23:46:17,563 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:46:17,563 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:46:17,563 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:46:47,100 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:46:47,100 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:46:47,100 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:46:47,100 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-02 23:48:56,575 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:48:56,576 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:48:56,577 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:49:25,889 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:49:25,889 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-02 23:49:25,889 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:49:25,889 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-02 23:49:41,787 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:49:41,787 - SMCSignals - INFO - 📊 增强信号数量: 394, 平均质量: 0.076, 平均汇聚度: 0.812
+2025-06-02 23:49:41,787 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:49:45,560 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-02 23:49:45,560 - SMCSignals - INFO - 📊 增强信号数量: 394, 平均质量: 0.076, 平均汇聚度: 0.812
+2025-06-02 23:49:45,560 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-02 23:49:45,560 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-03 01:02:52,896 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 01:02:52,896 - SMCSignals - INFO - 📊 增强信号数量: 236, 平均质量: 0.051, 平均汇聚度: 0.821
+2025-06-03 01:02:52,896 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 01:02:56,602 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 01:02:56,602 - SMCSignals - INFO - 📊 增强信号数量: 236, 平均质量: 0.051, 平均汇聚度: 0.821
+2025-06-03 01:02:56,602 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 01:02:56,602 - SMCSignals - INFO - 成功计算所有SMC信号，新增 0 个特征
+2025-06-03 02:27:18,964 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 02:27:18,964 - SMCSignals - INFO - 📊 增强信号数量: 8, 平均质量: 0.079, 平均汇聚度: 0.794
+2025-06-03 02:27:18,964 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 02:27:19,002 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 02:27:19,018 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.150
+2025-06-03 02:27:19,018 - SMCSignals - INFO - 📊 平均信号质量: 0.218
+2025-06-03 02:27:19,018 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 02:27:19,082 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 18, 'layer1_passed': 3, 'layer2_passed': 1, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(100)}, 'action_distribution': {0: np.int64(100)}}
+2025-06-03 02:27:19,082 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 87
+2025-06-03 02:37:05,809 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 02:37:05,809 - SMCSignals - INFO - 📊 增强信号数量: 395, 平均质量: 0.378, 平均汇聚度: 0.670
+2025-06-03 02:37:05,809 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 02:37:06,240 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 02:37:06,240 - SMCSignals - INFO - 📊 信号增强数量: 324, 平均技术确认度: 0.650
+2025-06-03 02:37:06,255 - SMCSignals - INFO - 📊 平均信号质量: 0.721
+2025-06-03 02:37:06,255 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 02:37:06,817 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 791, 'layer1_passed': 610, 'layer2_passed': 289, 'layer3_passed': 267, 'final_passed': 267, 'filter_efficiency': np.float64(0.33754740834386854), 'avg_final_score': np.float64(-0.03140931372970972), 'avg_confluence_score': np.float64(0.9873295852793028), 'signal_strength_distribution': {0: np.int64(733), 3: np.int64(162), 2: np.int64(103), 4: np.int64(2)}, 'action_distribution': {0: np.int64(733), -1: np.int64(141), 1: np.int64(126)}}
+2025-06-03 02:37:06,817 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 111
+2025-06-03 02:38:58,521 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 02:38:58,521 - SMCSignals - INFO - 📊 增强信号数量: 395, 平均质量: 0.378, 平均汇聚度: 0.670
+2025-06-03 02:38:58,522 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 02:38:58,950 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 02:38:58,950 - SMCSignals - INFO - 📊 信号增强数量: 324, 平均技术确认度: 0.650
+2025-06-03 02:38:58,950 - SMCSignals - INFO - 📊 平均信号质量: 0.721
+2025-06-03 02:38:58,966 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 02:38:59,527 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 791, 'layer1_passed': 610, 'layer2_passed': 289, 'layer3_passed': 267, 'final_passed': 267, 'filter_efficiency': np.float64(0.33754740834386854), 'avg_final_score': np.float64(-0.03140931372970972), 'avg_confluence_score': np.float64(0.9873295852793028), 'signal_strength_distribution': {0: np.int64(733), 3: np.int64(162), 2: np.int64(103), 4: np.int64(2)}, 'action_distribution': {0: np.int64(733), -1: np.int64(141), 1: np.int64(126)}}
+2025-06-03 02:38:59,531 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 111
+2025-06-03 02:40:49,969 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 02:40:49,969 - SMCSignals - INFO - 📊 增强信号数量: 395, 平均质量: 0.378, 平均汇聚度: 0.670
+2025-06-03 02:40:49,970 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 02:40:50,399 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 02:40:50,401 - SMCSignals - INFO - 📊 信号增强数量: 324, 平均技术确认度: 0.650
+2025-06-03 02:40:50,401 - SMCSignals - INFO - 📊 平均信号质量: 0.721
+2025-06-03 02:40:50,401 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 02:40:50,977 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 791, 'layer1_passed': 610, 'layer2_passed': 289, 'layer3_passed': 267, 'final_passed': 267, 'filter_efficiency': np.float64(0.33754740834386854), 'avg_final_score': np.float64(-0.03140931372970972), 'avg_confluence_score': np.float64(0.9873295852793028), 'signal_strength_distribution': {0: np.int64(733), 3: np.int64(162), 2: np.int64(103), 4: np.int64(2)}, 'action_distribution': {0: np.int64(733), -1: np.int64(141), 1: np.int64(126)}}
+2025-06-03 02:40:50,977 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 111
+2025-06-03 02:41:23,924 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 02:41:23,924 - SMCSignals - INFO - 📊 增强信号数量: 8, 平均质量: 0.094, 平均汇聚度: 0.787
+2025-06-03 02:41:23,924 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 02:41:23,981 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 02:41:23,981 - SMCSignals - INFO - 📊 信号增强数量: 5, 平均技术确认度: 0.184
+2025-06-03 02:41:23,983 - SMCSignals - INFO - 📊 平均信号质量: 0.271
+2025-06-03 02:41:23,983 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 02:41:24,026 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 37, 'layer1_passed': 17, 'layer2_passed': 6, 'layer3_passed': 3, 'final_passed': 3, 'filter_efficiency': np.float64(0.08108108108108109), 'avg_final_score': np.float64(0.31107024062118854), 'avg_confluence_score': np.float64(1.0), 'signal_strength_distribution': {0: np.int64(97), 3: np.int64(2), 4: np.int64(1)}, 'action_distribution': {0: np.int64(97), 1: np.int64(2), -1: np.int64(1)}}
+2025-06-03 02:41:24,027 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 112
+2025-06-03 03:26:02,354 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:26:02,354 - SMCSignals - INFO - 📊 增强信号数量: 225, 平均质量: 0.153, 平均汇聚度: 0.773
+2025-06-03 03:26:02,354 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:26:03,328 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:26:03,328 - SMCSignals - INFO - 📊 信号增强数量: 193, 平均技术确认度: 0.329
+2025-06-03 03:26:03,328 - SMCSignals - INFO - 📊 平均信号质量: 0.468
+2025-06-03 03:26:03,328 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:26:04,277 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1213, 'layer1_passed': 811, 'layer2_passed': 227, 'layer3_passed': 171, 'final_passed': 171, 'filter_efficiency': np.float64(0.14097279472382523), 'avg_final_score': np.float64(-0.27994173678380657), 'avg_confluence_score': np.float64(0.9778613051389053), 'signal_strength_distribution': {0: np.int64(1829), 3: np.int64(107), 2: np.int64(49), 4: np.int64(15)}, 'action_distribution': {0: np.int64(1829), -1: np.int64(119), 1: np.int64(52)}}
+2025-06-03 03:26:04,278 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 107
+2025-06-03 03:26:11,022 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:26:11,022 - SMCSignals - INFO - 📊 增强信号数量: 182, 平均质量: 0.136, 平均汇聚度: 0.757
+2025-06-03 03:26:11,022 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:26:12,087 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:26:12,087 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.271
+2025-06-03 03:26:12,087 - SMCSignals - INFO - 📊 平均信号质量: 0.431
+2025-06-03 03:26:12,087 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:26:13,127 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1123, 'layer1_passed': 687, 'layer2_passed': 160, 'layer3_passed': 158, 'final_passed': 158, 'filter_efficiency': np.float64(0.14069456812110417), 'avg_final_score': np.float64(0.5465041570302891), 'avg_confluence_score': np.float64(0.9556962025316456), 'signal_strength_distribution': {0: np.int64(1842), 2: np.int64(131), 3: np.int64(27)}, 'action_distribution': {0: np.int64(1842), 1: np.int64(158)}}
+2025-06-03 03:26:13,127 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 134
+2025-06-03 03:27:52,176 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:27:52,176 - SMCSignals - INFO - 📊 增强信号数量: 225, 平均质量: 0.153, 平均汇聚度: 0.773
+2025-06-03 03:27:52,176 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:27:53,120 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:27:53,120 - SMCSignals - INFO - 📊 信号增强数量: 186, 平均技术确认度: 0.325
+2025-06-03 03:27:53,120 - SMCSignals - INFO - 📊 平均信号质量: 0.455
+2025-06-03 03:27:53,120 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:27:54,043 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1209, 'layer1_passed': 805, 'layer2_passed': 210, 'layer3_passed': 162, 'final_passed': 162, 'filter_efficiency': np.float64(0.13399503722084366), 'avg_final_score': np.float64(-0.2893980049379689), 'avg_confluence_score': np.float64(0.979118159429068), 'signal_strength_distribution': {0: np.int64(1838), 3: np.int64(103), 2: np.int64(47), 4: np.int64(12)}, 'action_distribution': {0: np.int64(1838), -1: np.int64(114), 1: np.int64(48)}}
+2025-06-03 03:27:54,043 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 03:28:00,787 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:28:00,787 - SMCSignals - INFO - 📊 增强信号数量: 182, 平均质量: 0.136, 平均汇聚度: 0.757
+2025-06-03 03:28:00,788 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:28:01,790 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:28:01,790 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.271
+2025-06-03 03:28:01,790 - SMCSignals - INFO - 📊 平均信号质量: 0.431
+2025-06-03 03:28:01,790 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:28:02,788 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1123, 'layer1_passed': 687, 'layer2_passed': 160, 'layer3_passed': 158, 'final_passed': 158, 'filter_efficiency': np.float64(0.14069456812110417), 'avg_final_score': np.float64(0.5465041570302891), 'avg_confluence_score': np.float64(0.9556962025316456), 'signal_strength_distribution': {0: np.int64(1842), 2: np.int64(131), 3: np.int64(27)}, 'action_distribution': {0: np.int64(1842), 1: np.int64(158)}}
+2025-06-03 03:28:02,788 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 134
+2025-06-03 03:52:17,933 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:52:17,933 - SMCSignals - INFO - 📊 增强信号数量: 2892, 平均质量: 0.060, 平均汇聚度: 0.820
+2025-06-03 03:52:17,933 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:52:52,411 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:52:52,411 - SMCSignals - INFO - 📊 信号增强数量: 3318, 平均技术确认度: 0.342
+2025-06-03 03:52:52,411 - SMCSignals - INFO - 📊 平均信号质量: 0.426
+2025-06-03 03:52:52,411 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:53:19,465 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 13783, 'layer1_passed': 8538, 'layer2_passed': 6578, 'layer3_passed': 3774, 'final_passed': 3774, 'filter_efficiency': np.float64(0.27381556990495537), 'avg_final_score': np.float64(0.008284006690608177), 'avg_confluence_score': np.float64(0.8906332882886837), 'signal_strength_distribution': {0: np.int64(66514), 3: np.int64(2451), 2: np.int64(1203), 4: np.int64(120)}, 'action_distribution': {0: np.int64(66514), 1: np.int64(1908), -1: np.int64(1866)}}
+2025-06-03 03:53:19,465 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 87
+2025-06-03 03:55:38,721 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:55:38,721 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-03 03:55:38,721 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:56:05,763 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:56:05,763 - SMCSignals - INFO - 📊 信号增强数量: 6303, 平均技术确认度: 0.347
+2025-06-03 03:56:05,763 - SMCSignals - INFO - 📊 平均信号质量: 0.445
+2025-06-03 03:56:05,763 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:56:30,520 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 13409, 'layer1_passed': 8988, 'layer2_passed': 7668, 'layer3_passed': 6176, 'final_passed': 6176, 'filter_efficiency': np.float64(0.46058617346558284), 'avg_final_score': np.float64(-0.04258171997418874), 'avg_confluence_score': np.float64(0.9795031304197275), 'signal_strength_distribution': {0: np.int64(50054), 3: np.int64(4262), 2: np.int64(1264), 4: np.int64(650)}, 'action_distribution': {0: np.int64(50054), -1: np.int64(3264), 1: np.int64(2912)}}
+2025-06-03 03:56:30,520 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 03:58:47,350 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 03:58:47,350 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-03 03:58:47,350 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 03:59:14,066 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 03:59:14,066 - SMCSignals - INFO - 📊 信号增强数量: 6303, 平均技术确认度: 0.347
+2025-06-03 03:59:14,066 - SMCSignals - INFO - 📊 平均信号质量: 0.445
+2025-06-03 03:59:14,066 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 03:59:38,677 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 13409, 'layer1_passed': 8988, 'layer2_passed': 7668, 'layer3_passed': 6176, 'final_passed': 6176, 'filter_efficiency': np.float64(0.46058617346558284), 'avg_final_score': np.float64(-0.04258171997418874), 'avg_confluence_score': np.float64(0.9795031304197275), 'signal_strength_distribution': {0: np.int64(50054), 3: np.int64(4262), 2: np.int64(1264), 4: np.int64(650)}, 'action_distribution': {0: np.int64(50054), -1: np.int64(3264), 1: np.int64(2912)}}
+2025-06-03 03:59:38,682 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:01:55,606 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:01:55,606 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-03 04:01:55,606 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:02:22,857 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:02:22,857 - SMCSignals - INFO - 📊 信号增强数量: 6303, 平均技术确认度: 0.347
+2025-06-03 04:02:22,857 - SMCSignals - INFO - 📊 平均信号质量: 0.445
+2025-06-03 04:02:22,857 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:02:47,804 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 13409, 'layer1_passed': 8988, 'layer2_passed': 7668, 'layer3_passed': 6176, 'final_passed': 6176, 'filter_efficiency': np.float64(0.46058617346558284), 'avg_final_score': np.float64(-0.04258171997418874), 'avg_confluence_score': np.float64(0.9795031304197275), 'signal_strength_distribution': {0: np.int64(50054), 3: np.int64(4262), 2: np.int64(1264), 4: np.int64(650)}, 'action_distribution': {0: np.int64(50054), -1: np.int64(3264), 1: np.int64(2912)}}
+2025-06-03 04:02:47,807 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:05:06,256 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:05:06,256 - SMCSignals - INFO - 📊 增强信号数量: 2259, 平均质量: 0.059, 平均汇聚度: 0.821
+2025-06-03 04:05:06,256 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:05:33,607 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:05:33,607 - SMCSignals - INFO - 📊 信号增强数量: 6303, 平均技术确认度: 0.347
+2025-06-03 04:05:33,607 - SMCSignals - INFO - 📊 平均信号质量: 0.445
+2025-06-03 04:05:33,607 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:05:58,686 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 13409, 'layer1_passed': 8988, 'layer2_passed': 7668, 'layer3_passed': 6176, 'final_passed': 6176, 'filter_efficiency': np.float64(0.46058617346558284), 'avg_final_score': np.float64(-0.04258171997418874), 'avg_confluence_score': np.float64(0.9795031304197275), 'signal_strength_distribution': {0: np.int64(50054), 3: np.int64(4262), 2: np.int64(1264), 4: np.int64(650)}, 'action_distribution': {0: np.int64(50054), -1: np.int64(3264), 1: np.int64(2912)}}
+2025-06-03 04:05:58,686 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:06:15,465 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:06:15,465 - SMCSignals - INFO - 📊 增强信号数量: 394, 平均质量: 0.076, 平均汇聚度: 0.812
+2025-06-03 04:06:15,465 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:06:18,857 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:06:18,857 - SMCSignals - INFO - 📊 信号增强数量: 875, 平均技术确认度: 0.361
+2025-06-03 04:06:18,857 - SMCSignals - INFO - 📊 平均信号质量: 0.458
+2025-06-03 04:06:18,857 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:06:22,039 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1849, 'layer1_passed': 1205, 'layer2_passed': 1006, 'layer3_passed': 812, 'final_passed': 812, 'filter_efficiency': np.float64(0.43915630070308276), 'avg_final_score': np.float64(0.12341208986137576), 'avg_confluence_score': np.float64(0.9811555971775869), 'signal_strength_distribution': {0: np.int64(6217), 3: np.int64(561), 2: np.int64(165), 4: np.int64(86)}, 'action_distribution': {0: np.int64(6217), 1: np.int64(472), -1: np.int64(340)}}
+2025-06-03 04:06:22,039 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:16:10,494 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:16:10,494 - SMCSignals - INFO - 📊 增强信号数量: 86, 平均质量: 0.046, 平均汇聚度: 0.825
+2025-06-03 04:16:10,494 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:16:12,539 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:16:12,539 - SMCSignals - INFO - 📊 信号增强数量: 63, 平均技术确认度: 0.321
+2025-06-03 04:16:12,539 - SMCSignals - INFO - 📊 平均信号质量: 0.376
+2025-06-03 04:16:12,539 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:16:14,353 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 355, 'layer1_passed': 109, 'layer2_passed': 77, 'layer3_passed': 37, 'final_passed': 37, 'filter_efficiency': np.float64(0.10422535211267606), 'avg_final_score': np.float64(-0.1498047080905277), 'avg_confluence_score': np.float64(0.8703492273351577), 'signal_strength_distribution': {0: np.int64(2468), 3: np.int64(25), 2: np.int64(12)}, 'action_distribution': {0: np.int64(2468), -1: np.int64(23), 1: np.int64(14)}}
+2025-06-03 04:16:14,353 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 87
+2025-06-03 04:22:54,213 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:22:54,213 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:22:54,213 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:22:55,244 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:22:55,244 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:22:55,244 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:22:55,244 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:22:56,062 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:22:56,062 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:00,962 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:00,962 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:00,962 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:02,114 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:02,114 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:02,114 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:02,114 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:02,936 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:02,936 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:07,748 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:07,748 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:07,748 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:08,776 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:08,777 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:08,778 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:08,778 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:09,584 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:09,584 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:14,508 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:14,508 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:14,508 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:15,544 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:15,544 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:15,544 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:15,544 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:16,368 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:16,369 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:17,096 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:17,097 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:23:17,097 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:17,226 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:17,226 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:23:17,226 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:23:17,226 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:17,319 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:23:17,319 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:23,804 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:23,804 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:23,804 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:24,777 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:24,779 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:24,779 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:24,779 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:25,547 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:25,547 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:30,330 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:30,330 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:30,330 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:31,304 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:31,304 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:31,304 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:31,304 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:32,077 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:32,077 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:36,775 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:36,775 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:36,775 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:37,788 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:37,788 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:37,788 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:37,788 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:38,567 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:38,567 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:43,273 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:43,273 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:23:43,273 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:44,251 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:44,251 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:23:44,251 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:23:44,251 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:45,010 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:23:45,010 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:23:45,702 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:23:45,702 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:23:45,702 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:23:45,830 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:23:45,830 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:23:45,830 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:23:45,830 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:23:45,922 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:23:45,922 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:31:13,162 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:31:13,162 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:31:13,162 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:31:14,130 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:31:14,130 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:31:14,130 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:31:14,130 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:31:14,912 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:31:14,912 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:31:15,482 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:31:15,482 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:31:15,482 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:31:15,604 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:31:15,604 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:31:15,604 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:31:15,604 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:31:15,695 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:31:15,695 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:36:54,023 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:36:54,023 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:36:54,024 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:36:55,067 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:36:55,067 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:36:55,067 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:36:55,067 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:36:55,849 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:36:55,856 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:36:56,440 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:36:56,440 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:36:56,440 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:36:56,560 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:36:56,566 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:36:56,566 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:36:56,566 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:36:56,656 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:36:56,656 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:38:39,310 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:38:39,310 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:38:39,310 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:38:40,270 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:38:40,270 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:38:40,270 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:38:40,270 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:38:41,015 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:38:41,016 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:38:41,563 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:38:41,563 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:38:41,563 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:38:41,695 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:38:41,695 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:38:41,695 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:38:41,695 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:38:41,783 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:38:41,783 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:40:25,350 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:40:25,350 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:40:25,350 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:40:26,319 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:40:26,319 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:40:26,319 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:40:26,319 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:40:27,071 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:40:27,078 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:40:27,620 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:40:27,620 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:40:27,620 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:40:27,752 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:40:27,752 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:40:27,752 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:40:27,753 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:40:27,845 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:40:27,845 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:41:40,363 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:41:40,363 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:41:40,363 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:41:41,344 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:41:41,344 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:41:41,344 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:41:41,344 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:41:42,129 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:41:42,139 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:41:42,717 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:41:42,725 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:41:42,725 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:41:42,853 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:41:42,853 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:41:42,853 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:41:42,853 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:41:42,946 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:41:42,947 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:54:40,926 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:54:40,926 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 04:54:40,926 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:54:41,948 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:54:41,948 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 04:54:41,950 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 04:54:41,950 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:54:42,740 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 04:54:42,740 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 04:54:43,304 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 04:54:43,306 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 04:54:43,306 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 04:54:43,427 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 04:54:43,427 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 04:54:43,427 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 04:54:43,427 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 04:54:43,523 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 04:54:43,523 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:01:35,186 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:01:35,186 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 05:01:35,186 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:01:36,265 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:01:36,265 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 05:01:36,265 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 05:01:36,265 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:01:37,040 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 05:01:37,040 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:01:37,614 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:01:37,614 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 05:01:37,614 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:01:37,733 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:01:37,733 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 05:01:37,733 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 05:01:37,733 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:01:37,833 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 05:01:37,833 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:04:27,666 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:04:27,667 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 05:04:27,667 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:04:28,645 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:04:28,645 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 05:04:28,645 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 05:04:28,645 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:04:29,412 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 05:04:29,412 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:04:29,980 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:04:29,981 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 05:04:29,981 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:04:30,110 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:04:30,110 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 05:04:30,110 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 05:04:30,110 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:04:30,197 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 05:04:30,197 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:09:00,094 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:09:00,095 - SMCSignals - INFO - 📊 增强信号数量: 3, 平均质量: 0.029, 平均汇聚度: 0.850
+2025-06-03 05:09:00,095 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:09:00,229 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:09:00,229 - SMCSignals - INFO - 📊 信号增强数量: 31, 平均技术确认度: 0.351
+2025-06-03 05:09:00,229 - SMCSignals - INFO - 📊 平均信号质量: 0.419
+2025-06-03 05:09:00,229 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:09:00,342 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 48, 'layer1_passed': 28, 'layer2_passed': 17, 'layer3_passed': 16, 'final_passed': 16, 'filter_efficiency': np.float64(0.3333333333333333), 'avg_final_score': np.float64(0.44344669791997604), 'avg_confluence_score': np.float64(1.0), 'signal_strength_distribution': {0: np.int64(235), 3: np.int64(10), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(235), 1: np.int64(13), -1: np.int64(3)}}
+2025-06-03 05:09:00,342 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:17:44,862 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:17:44,862 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 05:17:44,878 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:17:45,831 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:17:45,831 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 05:17:45,831 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 05:17:45,831 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:17:46,598 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 05:17:46,598 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:17:47,145 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:17:47,145 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 05:17:47,145 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:17:47,281 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:17:47,281 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 05:17:47,281 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 05:17:47,281 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:17:47,370 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 05:17:47,370 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:22:04,265 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:22:04,266 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 05:22:04,266 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:22:05,341 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:22:05,342 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 05:22:05,342 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 05:22:05,342 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:22:06,173 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 05:22:06,173 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:22:06,731 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:22:06,731 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 05:22:06,731 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:22:06,863 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:22:06,863 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 05:22:06,863 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 05:22:06,863 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:22:06,951 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 05:22:06,951 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:27:31,133 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:27:31,133 - SMCSignals - INFO - 📊 增强信号数量: 3, 平均质量: 0.029, 平均汇聚度: 0.850
+2025-06-03 05:27:31,133 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:27:31,283 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:27:31,283 - SMCSignals - INFO - 📊 信号增强数量: 31, 平均技术确认度: 0.351
+2025-06-03 05:27:31,283 - SMCSignals - INFO - 📊 平均信号质量: 0.419
+2025-06-03 05:27:31,283 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:27:31,396 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 48, 'layer1_passed': 28, 'layer2_passed': 17, 'layer3_passed': 16, 'final_passed': 16, 'filter_efficiency': np.float64(0.3333333333333333), 'avg_final_score': np.float64(0.44344669791997604), 'avg_confluence_score': np.float64(1.0), 'signal_strength_distribution': {0: np.int64(235), 3: np.int64(10), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(235), 1: np.int64(13), -1: np.int64(3)}}
+2025-06-03 05:27:31,396 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:32:33,150 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:32:33,150 - SMCSignals - INFO - 📊 增强信号数量: 236, 平均质量: 0.051, 平均汇聚度: 0.821
+2025-06-03 05:32:33,150 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:32:36,602 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:32:36,603 - SMCSignals - INFO - 📊 信号增强数量: 827, 平均技术确认度: 0.355
+2025-06-03 05:32:36,603 - SMCSignals - INFO - 📊 平均信号质量: 0.448
+2025-06-03 05:32:36,603 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:32:39,817 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1599, 'layer1_passed': 1046, 'layer2_passed': 916, 'layer3_passed': 776, 'final_passed': 776, 'filter_efficiency': np.float64(0.48530331457160725), 'avg_final_score': np.float64(-0.035695336384626374), 'avg_confluence_score': np.float64(0.9811701603943104), 'signal_strength_distribution': {0: np.int64(6253), 3: np.int64(549), 2: np.int64(159), 4: np.int64(68)}, 'action_distribution': {0: np.int64(6253), -1: np.int64(410), 1: np.int64(366)}}
+2025-06-03 05:32:39,817 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:34:58,453 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:34:58,453 - SMCSignals - INFO - 📊 增强信号数量: 236, 平均质量: 0.051, 平均汇聚度: 0.821
+2025-06-03 05:34:58,453 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:35:02,048 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:35:02,048 - SMCSignals - INFO - 📊 信号增强数量: 827, 平均技术确认度: 0.355
+2025-06-03 05:35:02,048 - SMCSignals - INFO - 📊 平均信号质量: 0.448
+2025-06-03 05:35:02,048 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:35:05,388 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1599, 'layer1_passed': 1046, 'layer2_passed': 916, 'layer3_passed': 776, 'final_passed': 776, 'filter_efficiency': np.float64(0.48530331457160725), 'avg_final_score': np.float64(-0.035695336384626374), 'avg_confluence_score': np.float64(0.9811701603943104), 'signal_strength_distribution': {0: np.int64(6253), 3: np.int64(549), 2: np.int64(159), 4: np.int64(68)}, 'action_distribution': {0: np.int64(6253), -1: np.int64(410), 1: np.int64(366)}}
+2025-06-03 05:35:05,388 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 05:35:51,055 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 05:35:51,055 - SMCSignals - INFO - 📊 增强信号数量: 236, 平均质量: 0.051, 平均汇聚度: 0.821
+2025-06-03 05:35:51,055 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 05:35:54,566 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 05:35:54,566 - SMCSignals - INFO - 📊 信号增强数量: 827, 平均技术确认度: 0.355
+2025-06-03 05:35:54,566 - SMCSignals - INFO - 📊 平均信号质量: 0.448
+2025-06-03 05:35:54,566 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 05:35:57,857 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 1599, 'layer1_passed': 1046, 'layer2_passed': 916, 'layer3_passed': 776, 'final_passed': 776, 'filter_efficiency': np.float64(0.48530331457160725), 'avg_final_score': np.float64(-0.035695336384626374), 'avg_confluence_score': np.float64(0.9811701603943104), 'signal_strength_distribution': {0: np.int64(6253), 3: np.int64(549), 2: np.int64(159), 4: np.int64(68)}, 'action_distribution': {0: np.int64(6253), -1: np.int64(410), 1: np.int64(366)}}
+2025-06-03 05:35:57,857 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 08:36:55,056 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 08:36:55,056 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 08:36:55,056 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 08:36:55,289 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 08:36:55,289 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 08:36:55,289 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 08:36:55,289 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 08:36:55,380 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 08:36:55,380 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 08:36:56,212 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 08:36:56,212 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 08:36:56,212 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 08:36:56,437 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 08:36:56,437 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 08:36:56,441 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 08:36:56,441 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 08:36:56,521 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 08:36:56,521 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:45:12,000 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:45:12,000 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 09:45:12,000 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:45:12,233 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:45:12,235 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:45:12,235 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 09:45:12,235 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:45:12,329 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 09:45:12,329 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:45:13,145 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:45:13,145 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 09:45:13,145 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:45:13,373 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:45:13,373 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:45:13,373 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 09:45:13,373 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:45:13,455 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 09:45:13,455 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:55,500 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:55,500 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 09:46:55,500 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:55,754 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:55,754 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:46:55,754 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 09:46:55,754 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:55,859 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 09:46:55,860 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:56,790 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:56,790 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 09:46:56,790 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:57,028 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:57,028 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:46:57,028 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 09:46:57,028 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:57,122 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 09:46:57,123 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:57,267 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:57,267 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 09:46:57,267 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:57,519 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:57,519 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:46:57,519 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 09:46:57,519 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:57,610 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 09:46:57,610 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:57,792 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:57,792 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:46:57,792 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:57,936 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:57,936 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:46:57,936 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:46:57,936 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:57,992 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:46:57,994 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:58,494 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:58,494 - SMCSignals - INFO - 📊 增强信号数量: 480, 平均质量: 0.320, 平均汇聚度: 0.988
+2025-06-03 09:46:58,494 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:58,611 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:58,611 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:46:58,611 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:58,755 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:58,757 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:46:58,757 - SMCSignals - INFO - 📊 平均信号质量: 0.091
+2025-06-03 09:46:58,757 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:58,760 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:58,760 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:46:58,760 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:46:58,762 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:58,822 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:46:58,823 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:58,849 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(500)}, 'action_distribution': {0: np.int64(500)}}
+2025-06-03 09:46:58,849 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:59,447 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:59,449 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:46:59,449 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:59,495 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:46:59,495 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:46:59,495 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:46:59,594 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:59,594 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:46:59,594 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:46:59,594 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:59,646 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:46:59,647 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:46:59,647 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:46:59,647 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:46:59,653 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:46:59,654 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:46:59,702 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:46:59,703 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:47:00,272 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:47:00,272 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:47:00,272 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:47:00,327 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:47:00,327 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:47:00,327 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:47:00,411 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:47:00,411 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:47:00,411 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:47:00,411 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:47:00,466 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:47:00,466 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:47:00,466 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:47:00,466 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:47:00,480 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:47:00,480 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:47:00,537 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:47:00,537 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:47:01,148 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:47:01,149 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:47:01,150 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:47:01,296 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:47:01,296 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:47:01,296 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:47:01,296 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:47:01,354 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:47:01,354 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:47:01,501 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:47:01,501 - SMCSignals - INFO - 📊 增强信号数量: 180, 平均质量: 0.300, 平均汇聚度: 0.971
+2025-06-03 09:47:01,501 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:47:01,594 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:47:01,594 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:47:01,594 - SMCSignals - INFO - 📊 平均信号质量: 0.104
+2025-06-03 09:47:01,594 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:47:01,642 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(200)}, 'action_distribution': {0: np.int64(200)}}
+2025-06-03 09:47:01,643 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:47:01,978 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:47:01,980 - SMCSignals - INFO - 📊 增强信号数量: 280, 平均质量: 0.311, 平均汇聚度: 0.981
+2025-06-03 09:47:01,980 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:47:02,113 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:47:02,113 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.038
+2025-06-03 09:47:02,113 - SMCSignals - INFO - 📊 平均信号质量: 0.110
+2025-06-03 09:47:02,113 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:47:02,187 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(300)}, 'action_distribution': {0: np.int64(300)}}
+2025-06-03 09:47:02,187 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:47:03,107 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:47:03,107 - SMCSignals - INFO - 📊 增强信号数量: 180, 平均质量: 0.300, 平均汇聚度: 0.971
+2025-06-03 09:47:03,107 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:47:03,212 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:47:03,212 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.033
+2025-06-03 09:47:03,212 - SMCSignals - INFO - 📊 平均信号质量: 0.104
+2025-06-03 09:47:03,212 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:47:03,253 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(200)}, 'action_distribution': {0: np.int64(200)}}
+2025-06-03 09:47:03,254 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:48:46,943 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:48:46,943 - SMCSignals - INFO - 📊 增强信号数量: 980, 平均质量: 0.327, 平均汇聚度: 0.994
+2025-06-03 09:48:46,943 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:48:47,390 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:48:47,390 - SMCSignals - INFO - 📊 信号增强数量: 0, 平均技术确认度: 0.034
+2025-06-03 09:48:47,390 - SMCSignals - INFO - 📊 平均信号质量: 0.088
+2025-06-03 09:48:47,390 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:48:47,541 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 12, 'layer1_passed': 12, 'layer2_passed': 0, 'layer3_passed': 0, 'final_passed': 0, 'filter_efficiency': np.float64(0.0), 'avg_final_score': 0, 'avg_confluence_score': 0, 'signal_strength_distribution': {0: np.int64(1000)}, 'action_distribution': {0: np.int64(1000)}}
+2025-06-03 09:48:47,542 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 121
+2025-06-03 09:49:48,638 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:49:48,638 - SMCSignals - INFO - 📊 增强信号数量: 73, 平均质量: 0.048, 平均汇聚度: 0.823
+2025-06-03 09:49:48,638 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:49:49,628 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:49:49,628 - SMCSignals - INFO - 📊 信号增强数量: 216, 平均技术确认度: 0.345
+2025-06-03 09:49:49,628 - SMCSignals - INFO - 📊 平均信号质量: 0.398
+2025-06-03 09:49:49,628 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:49:50,379 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 402, 'layer1_passed': 191, 'layer2_passed': 143, 'layer3_passed': 127, 'final_passed': 127, 'filter_efficiency': np.float64(0.31592039800995025), 'avg_final_score': np.float64(-0.17735298759636847), 'avg_confluence_score': np.float64(0.9827715551162066), 'signal_strength_distribution': {0: np.int64(1877), 3: np.int64(101), 2: np.int64(16), 4: np.int64(10)}, 'action_distribution': {0: np.int64(1877), -1: np.int64(79), 1: np.int64(48)}}
+2025-06-03 09:49:50,379 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 09:49:50,933 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:49:50,934 - SMCSignals - INFO - 📊 增强信号数量: 2, 平均质量: 0.023, 平均汇聚度: 0.842
+2025-06-03 09:49:50,935 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:49:51,052 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:49:51,054 - SMCSignals - INFO - 📊 信号增强数量: 21, 平均技术确认度: 0.321
+2025-06-03 09:49:51,054 - SMCSignals - INFO - 📊 平均信号质量: 0.368
+2025-06-03 09:49:51,054 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:49:51,146 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 39, 'layer1_passed': 16, 'layer2_passed': 12, 'layer3_passed': 11, 'final_passed': 11, 'filter_efficiency': np.float64(0.28205128205128205), 'avg_final_score': np.float64(0.7196074877043015), 'avg_confluence_score': np.float64(0.9956412515602547), 'signal_strength_distribution': {0: np.int64(239), 3: np.int64(5), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(239), 1: np.int64(11)}}
+2025-06-03 09:49:51,146 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120
+2025-06-03 09:57:56,224 - SMCSignals - INFO - ✅ 组合信号识别完成！
+2025-06-03 09:57:56,224 - SMCSignals - INFO - 📊 增强信号数量: 3, 平均质量: 0.029, 平均汇聚度: 0.850
+2025-06-03 09:57:56,226 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, combined_signal, signal_quality_score, signal_confluence_enhanced
+2025-06-03 09:57:56,478 - SMCSignals - INFO - ✅ 增强组合信号计算完成
+2025-06-03 09:57:56,494 - SMCSignals - INFO - 📊 信号增强数量: 31, 平均技术确认度: 0.351
+2025-06-03 09:57:56,494 - SMCSignals - INFO - 📊 平均信号质量: 0.419
+2025-06-03 09:57:56,495 - SMCSignals - INFO - 🆕 新增特征: enhanced_smc_signal, enhanced_signal_quality, technical_indicator_confirmation
+2025-06-03 09:57:56,709 - SMCSignals - INFO - 🔍 信号过滤器摘要: {'total_smc_signals': 48, 'layer1_passed': 28, 'layer2_passed': 17, 'layer3_passed': 16, 'final_passed': 16, 'filter_efficiency': np.float64(0.3333333333333333), 'avg_final_score': np.float64(0.44344669791997604), 'avg_confluence_score': np.float64(1.0), 'signal_strength_distribution': {0: np.int64(235), 3: np.int64(10), 2: np.int64(3), 4: np.int64(3)}, 'action_distribution': {0: np.int64(235), 1: np.int64(13), -1: np.int64(3)}}
+2025-06-03 09:57:56,709 - SMCSignals - INFO - ✅ 增强SMC信号计算完成，总特征数: 120

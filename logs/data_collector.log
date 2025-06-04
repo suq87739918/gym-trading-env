@@ -1,0 +1,134 @@
+2025-06-02 23:32:19,521 - DataCollector - INFO - 开始获取 SOLUSDT 15m 数据，时间范围: 2023-06-02 到 2025-06-02
+2025-06-02 23:32:19,674 - DataCollector - WARNING - 使用CCXT作为备用数据源
+2025-06-02 23:32:39,755 - DataCollector - INFO - 成功获取 70271 条数据记录
+2025-06-02 23:32:39,953 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 03:49:11,592 - DataCollector - INFO - 开始获取 SOLUSDT 15m 数据，时间范围: 2023-06-02 到 2025-06-02
+2025-06-03 03:49:11,738 - DataCollector - WARNING - 使用CCXT作为备用数据源
+2025-06-03 03:49:32,813 - DataCollector - INFO - 成功获取 70288 条数据记录
+2025-06-03 03:49:33,031 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:16:02,371 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:16:02,371 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:16:02,372 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:16:02,372 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:16:02,372 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:16:03,256 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:16:04,764 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:16:04,794 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:16:04,809 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:22:47,177 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:22:47,177 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:22:47,177 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:22:47,177 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:22:47,177 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:22:47,634 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:22:49,034 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:22:49,041 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:22:49,052 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:23:17,273 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:23:17,274 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:23:17,274 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:23:17,274 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:23:17,274 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:23:17,719 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:23:18,799 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:23:18,805 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:23:18,816 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:31:06,745 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:31:06,745 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:31:06,745 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:31:06,745 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:31:06,745 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:31:07,323 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:31:08,309 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:31:08,311 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:31:08,330 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:36:46,559 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:36:46,561 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:36:46,561 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:36:46,561 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:36:46,561 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:36:47,295 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:36:48,956 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:36:48,963 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:36:48,972 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:38:31,787 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:38:31,787 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:38:31,787 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:38:31,787 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:38:31,787 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:38:32,523 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:38:34,491 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:38:34,491 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:38:34,505 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:40:19,297 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:40:19,298 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:40:19,298 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:40:19,299 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:40:19,299 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:40:19,747 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:40:20,530 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:40:20,530 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:40:20,550 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:41:34,184 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:41:34,184 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:41:34,184 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:41:34,184 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:41:34,184 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:41:34,628 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:41:35,403 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:41:35,403 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:41:35,418 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 04:54:34,181 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 04:54:34,181 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 04:54:34,181 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 04:54:34,181 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 04:54:34,181 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 04:54:34,619 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 04:54:36,024 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 04:54:36,031 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 04:54:36,039 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 05:01:27,315 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 05:01:27,315 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 05:01:27,315 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 05:01:27,315 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 05:01:27,315 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 05:01:28,252 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 05:01:29,891 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 05:01:29,901 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 05:01:29,908 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 05:04:21,487 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 05:04:21,487 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 05:04:21,487 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 05:04:21,487 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 05:04:21,487 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 05:04:21,915 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 05:04:22,707 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 05:04:22,716 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 05:04:22,720 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 05:17:38,146 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 05:17:38,146 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 05:17:38,146 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 05:17:38,146 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 05:17:38,153 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 05:17:38,598 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 05:17:39,974 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 05:17:39,997 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 05:17:40,003 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 05:21:57,914 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 05:21:57,914 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 05:21:57,914 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 05:21:57,916 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 05:21:57,916 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 05:21:58,348 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 05:21:59,140 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 05:21:59,140 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 05:21:59,154 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv
+2025-06-03 09:49:41,390 - DataCollector - INFO - 📅 使用最近3个月数据进行训练: 2025-03-05 到 2025-06-03
+2025-06-03 09:49:41,394 - DataCollector - INFO - 📊 开始获取 SOLUSDT 15m 历史数据...
+2025-06-03 09:49:41,394 - DataCollector - INFO - 📅 时间范围: 2025-03-05 到 2025-06-03
+2025-06-03 09:49:41,394 - DataCollector - INFO - 📈 预计获取 6500 条数据
+2025-06-03 09:49:41,394 - DataCollector - INFO - 🔑 使用Binance API获取数据...
+2025-06-03 09:49:42,279 - DataCollector - INFO - 已获取 1 批数据，当前时间: 2025-05-11 17:15:00
+2025-06-03 09:49:43,816 - DataCollector - INFO - 已获取 2 批数据，当前时间: 2025-06-03 00:15:00
+2025-06-03 09:49:43,832 - DataCollector - INFO - ✅ 成功获取 2505 条历史数据
+2025-06-03 09:49:43,847 - DataCollector - INFO - 数据已保存到: data/raw\SOLUSDT_15m_data.csv

@@ -1,0 +1,88 @@
+2025-06-02 23:32:40,139 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 27 个新特征
+2025-06-02 23:36:03,549 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-02 23:38:43,045 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-02 23:41:25,039 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-02 23:44:06,568 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-02 23:46:47,291 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-02 23:49:25,948 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-03 01:02:37,200 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 0 个新特征
+2025-06-03 02:27:18,756 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 27 个新特征
+2025-06-03 02:37:03,707 - TechnicalIndicators - INFO - ✅ 信号过滤指标计算完成
+2025-06-03 02:37:03,707 - TechnicalIndicators - INFO - 📊 新增过滤特征: trend_alignment, momentum_alignment, volatility_regime, signal_confluence
+2025-06-03 02:37:03,707 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 49 个新特征
+2025-06-03 02:38:56,424 - TechnicalIndicators - INFO - ✅ 信号过滤指标计算完成
+2025-06-03 02:38:56,424 - TechnicalIndicators - INFO - 📊 新增过滤特征: trend_alignment, momentum_alignment, volatility_regime, signal_confluence
+2025-06-03 02:38:56,424 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 49 个新特征
+2025-06-03 02:40:47,887 - TechnicalIndicators - INFO - ✅ 信号过滤指标计算完成
+2025-06-03 02:40:47,887 - TechnicalIndicators - INFO - 📊 新增过滤特征: trend_alignment, momentum_alignment, volatility_regime, signal_confluence
+2025-06-03 02:40:47,903 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 49 个新特征
+2025-06-03 02:41:23,735 - TechnicalIndicators - INFO - ✅ 信号过滤指标计算完成
+2025-06-03 02:41:23,735 - TechnicalIndicators - INFO - 📊 新增过滤特征: trend_alignment, momentum_alignment, volatility_regime, signal_confluence
+2025-06-03 02:41:23,738 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 51 个新特征
+2025-06-03 03:25:57,148 - TechnicalIndicators - ERROR - ❌ 计算信号过滤指标失败: name 'talib' is not defined
+2025-06-03 03:25:57,148 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 47 个新特征
+2025-06-03 03:27:47,190 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 03:49:33,232 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 27 个新特征
+2025-06-03 03:53:24,832 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 03:56:33,447 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 03:59:41,634 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:02:50,789 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:05:59,117 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:16:04,834 - TechnicalIndicators - INFO - ✅ 核心技术指标计算完成，共 27 个新特征
+2025-06-03 04:22:49,303 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:22:56,211 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:03,057 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:09,723 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:16,544 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:19,051 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:25,677 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:32,211 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:38,709 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:23:45,176 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:31:08,548 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:31:14,960 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:36:49,198 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:36:55,901 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:38:34,736 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:38:41,053 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:40:20,769 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:40:27,119 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:41:35,647 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:41:42,187 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:54:36,269 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 04:54:42,790 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:01:30,125 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:01:37,082 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:04:22,945 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:04:29,461 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:08:59,532 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:17:40,261 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:17:46,646 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:21:59,387 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:22:06,230 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:27:30,589 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:32:16,520 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:34:41,886 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 05:35:35,167 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 08:36:54,260 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 08:36:55,429 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:45:11,194 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:45:12,367 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:54,527 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:55,912 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:56,395 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:57,278 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:57,658 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:58,095 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:58,948 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:58,996 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:59,771 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:46:59,813 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:47:00,650 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:47:01,152 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:47:01,462 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:47:02,783 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:48:45,244 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 60 个新特征
+2025-06-03 09:49:44,072 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 09:49:50,430 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
+2025-06-03 09:57:54,996 - TechnicalIndicators - INFO - ✅ 增强技术指标计算完成，共 33 个新特征
